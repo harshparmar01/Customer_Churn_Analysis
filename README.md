@@ -58,4 +58,15 @@ The dataset contains details of ~7,000 telecom customers including:
 - **Short-tenure customers** (<12 months) were more likely to leave.
 - **Senior citizens** and **fiber optic users** churned more frequently.
 
+---
+
+## 📁 Files in This Repo
+
+| File/Folder | Description |
+|-------------|-------------|
+| `churn_analysis.ipynb` | Cleaned and analyzed dataset using Python |
+| `cleaned_dataset.csv` | Final cleaned dataset |
+| `PowerBI_Dashboard.pdf` | Exported view of the Power BI dashboard |
+| `visuals/` | Folder containing visualizations |
+| `README.md` | This documentation file |
 
