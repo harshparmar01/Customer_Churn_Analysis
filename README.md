@@ -64,9 +64,9 @@ The dataset contains details of ~7,000 telecom customers including:
 
 | File/Folder | Description |
 |-------------|-------------|
-| `churn_analysis.ipynb` | Cleaned and analyzed dataset using Python |
-| `cleaned_dataset.csv` | Final cleaned dataset |
-| `PowerBI_Dashboard.pdf` | Exported view of the Power BI dashboard |
+| `Customer_Churn_Analysis.ipynb` | Cleaned and analyzed dataset using Python |
+| `cleaned_churned_data.csv` | Final cleaned dataset |
+| `powerBi_dashboard.pdf` | Exported view of the Power BI dashboard |
 | `visuals/` | Folder containing visualizations |
 | `README.md` | This documentation file |
 
